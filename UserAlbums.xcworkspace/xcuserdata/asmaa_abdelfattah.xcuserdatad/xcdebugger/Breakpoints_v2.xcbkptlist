@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "937E8ABC-E48D-419C-9609-776B4AD46569"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0D3784B7-C2BB-4635-AE2E-24E6F90E97CD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UserAlbums/AlbumList/View/AlbumListVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0D3784B7-C2BB-4635-AE2E-24E6F90E97CD - 51f34646748704e2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UserAlbums.AlbumListVC.viewDidLoad() -&gt; ()"
+                  moduleName = "UserAlbums"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/asmaa_abdelfattah/Desktop/UserAlbums/UserAlbums/UserAlbums/AlbumList/View/AlbumListVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "294">
+               </Location>
+               <Location
+                  uuid = "0D3784B7-C2BB-4635-AE2E-24E6F90E97CD - 653e28463a8837ef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Combine.Subscribers.Completion&lt;Moya.MoyaError&gt;) -&gt; () in UserAlbums.AlbumListVC.viewDidLoad() -&gt; ()"
+                  moduleName = "UserAlbums"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/asmaa_abdelfattah/Desktop/UserAlbums/UserAlbums/UserAlbums/AlbumList/View/AlbumListVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "116">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "694E2C48-7570-446E-9422-351717F98201"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UserAlbums/AlbumList/ViewModel/AlbumViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "loadUsers()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

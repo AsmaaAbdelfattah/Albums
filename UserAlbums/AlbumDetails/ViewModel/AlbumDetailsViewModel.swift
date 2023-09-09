@@ -6,3 +6,12 @@
 //
 
 import Foundation
+import Combine
+class AlbumDetailsViewModel: ObservableObject{
+  
+    @Published var photos = [Photo]()
+    let networkService: AlbumsListNetworkServices = AlbumsListNetworkServices()
+    func fetchPhotos(id: Int) -> AnyPublisher<[Photo],Error> {
+        networkService.get(url: "https://jsonplaceholder.typicode.com/albums/\(id)/photos")
+    }
+}
